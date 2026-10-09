@@ -23,12 +23,12 @@ My background in physics means I like problems where the maths matters, and my c
 
 ### 🛠️ Tools & technologies
 
-**Languages:** Python · SQL · Java
-**Data science:** pandas · NumPy · scikit-learn · PyTorch · statistical modelling · Monte Carlo simulation
-**AI / LLMs:** RAG pipelines · ChromaDB · Streamlit · Anthropic & Gemini APIs
-**Analytics & BI:** Power BI (DAX, Power Query M) · Excel · Power Automate
-**Engineering & QA:** Git · Jira · Selenium (Java) · TOSCA · manual testing
-**Risk & security:** AML/CFT risk assessment · regulatory reporting · ISO 27001 / ISMS · GDPR
+- **Languages:** Python · SQL · Java
+- **Data science:** pandas · NumPy · scikit-learn · PyTorch · statistical modelling · Monte Carlo simulation
+- **AI / LLMs:** RAG pipelines · ChromaDB · Streamlit · Anthropic & Gemini APIs
+- **Analytics & BI:** Power BI (DAX, Power Query M) · Excel · Power Automate
+- **Engineering & QA:** Git · Jira · Selenium (Java) · TOSCA · manual testing
+- **Risk & security:** AML/CFT risk assessment · regulatory reporting · ISO 27001 / ISMS · GDPR
 
 ### 🎓 Background
 - Integrated M.Sc. Physics — University of Hyderabad
