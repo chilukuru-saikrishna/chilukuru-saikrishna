@@ -18,7 +18,7 @@ My background in physics means I like problems where the maths matters, and my c
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [World Cup Prediction Model](https://github.com/chilukuru-saikrishna/world-cup-prediction) | Ensemble forecast combining Dixon-Coles, Elo ratings and a neural network, simulated with Monte Carlo | Python, PyTorch, NumPy, pandas |
-| [Regulatory Document QA](https://github.com/chilukuru-saikrishna/regulatory-doc-qa) | RAG agent that answers questions over long regulatory PDFs with cited sources | Python, PyMuPDF, ChromaDB, Streamlit, Gemini API |
+| [Regulatory Document QA](https://github.com/chilukuru-saikrishna/regulatory-doc-qa) | RAG agent that answers questions over long regulatory PDFs with cited sources | Python, PyMuPDF, ChromaDB, Gemini API, Gradio, Google Colab |
 | Gambling Harm Early Detection *(in progress)* | Classifies risky betting patterns and explains each flag | scikit-learn, LightGBM, SHAP |
 
 ### 🛠️ Tools & technologies
