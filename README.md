@@ -1,4 +1,4 @@
-# Hi, I'm Saikrishna 👋
+# Hi, I'm Sai Krishna 👋
 
 **Risk Analyst → Forward Deployed Engineer** · Physics M.Sc. · Malta 🇲🇹
 
