@@ -1,16 +1,16 @@
 # Hi, I'm Saikrishna 👋
 
-**Risk Analyst → Data Scientist** · Physics M.Sc. · Malta 🇲🇹
+**Risk Analyst → Forward Deployed Engineer** · Physics M.Sc. · Malta 🇲🇹
 
-I work at the intersection of data, risk and regulation. By day I'm a Risk Analyst in iGaming, building automation and analytics for AML/CFT risk assessments and regulatory reporting across six jurisdictions. I'm now focused on data science: statistical modelling, machine learning and explainable models for problems like gambling harm detection, fraud and player behaviour.
+I work at the intersection of data, risk and regulation. By day I'm a Risk Analyst in iGaming, building automation and analytics for AML/CFT risk assessments and regulatory reporting across six jurisdictions, working directly with compliance teams to turn their problems into working tools.
 
-My background in physics means I like problems where the maths matters, and my compliance work means I care about models that can be explained and trusted.
+I'm now focused on forward deployed engineering: taking AI and data solutions from prototype to production inside real business workflows, especially in regulated environments where outputs have to be explainable, auditable and trusted.
 
 ---
 
 ### 🔭 Currently working on
 - An explainable model for **early detection of gambling harm** (gradient boosting + SHAP)
-- Strengthening applied statistics, ML and model deployment skills
+- Building and deploying LLM/RAG tools end to end: APIs, evaluation and deployment
 - Polishing my past projects and documenting them properly
 
 ### 📌 Featured projects
