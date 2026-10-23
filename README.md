@@ -1,4 +1,4 @@
-# Hi, I'm Sai Krishna 👋
+# Hi, I'm Saikrishna 👋
 
 **Risk Analyst → Forward Deployed Engineer** · Physics M.Sc. · Malta 🇲🇹
 
@@ -9,7 +9,7 @@ I'm now focused on forward deployed engineering: taking AI and data solutions fr
 ---
 
 ### 🔭 Currently working on
-- An explainable model for **early detection of gambling harm** (gradient boosting + SHAP)
+- An explainable model for **early detection of gambling harm** (gradient boosting + SHAP), trained on data from my [igaming-synth](https://github.com/chilukuru-saikrishna/igaming-synth) library
 - Building and deploying LLM/RAG tools end to end: APIs, evaluation and deployment
 - Polishing my past projects and documenting them properly
 
@@ -17,6 +17,7 @@ I'm now focused on forward deployed engineering: taking AI and data solutions fr
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [igaming-synth](https://github.com/chilukuru-saikrishna/igaming-synth) | Python library that generates realistic synthetic iGaming data with labelled gambling-harm, AML and bonus-abuse patterns | Python, NumPy, pandas, pytest, GitHub Actions |
 | [World Cup Prediction Model](https://github.com/chilukuru-saikrishna/world-cup-prediction) | Ensemble forecast combining Dixon-Coles, Elo ratings and a neural network, simulated with Monte Carlo | Python, PyTorch, NumPy, pandas |
 | [Regulatory Document QA](Regulatory_Document_QA.ipynb) | RAG agent that answers questions over long regulatory PDFs with cited sources | Python, PyMuPDF, ChromaDB, Gemini API, Gradio, Google Colab |
 | Gambling Harm Early Detection *(in progress)* | Classifies risky betting patterns and explains each flag | scikit-learn, LightGBM, SHAP |
@@ -27,7 +28,7 @@ I'm now focused on forward deployed engineering: taking AI and data solutions fr
 - **Data science:** pandas · NumPy · scikit-learn · PyTorch · statistical modelling · Monte Carlo simulation
 - **AI / LLMs:** RAG pipelines · ChromaDB · Streamlit · Anthropic & Gemini APIs
 - **Analytics & BI:** Power BI (DAX, Power Query M) · Excel · Power Automate
-- **Engineering & QA:** Git · Jira · Selenium (Java) · TOSCA · manual testing
+- **Engineering & QA:** Git · GitHub Actions · pytest · Jira · Selenium (Java) · TOSCA · manual testing
 - **Risk & security:** AML/CFT risk assessment · regulatory reporting · ISO 27001 / ISMS · GDPR
 
 ### 🎓 Background
@@ -38,4 +39,3 @@ I'm now focused on forward deployed engineering: taking AI and data solutions fr
 
 ### 📫 Get in touch
 [LinkedIn](https://www.linkedin.com/in/sai-krishna-24207a257) · [Portfolio](https://chilukuru-saikrishna.github.io) · chilukuru.sai@gmail.com
-
