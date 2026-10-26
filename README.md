@@ -25,8 +25,7 @@ I'm focused on forward deployed engineering: taking AI and data solutions from p
 | [igaming-ai-governance](https://github.com/chilukuru-saikrishna/igaming-ai-governance) | Audits whether bonus and marketing models over-target players at risk of gambling harm, with a pass/fail gate for CI, plus indicative EU AI Act classifications for 8 iGaming AI systems | Python, pandas, scikit-learn, PyYAML, GitHub Actions |
 | [igaming-synth](https://github.com/chilukuru-saikrishna/igaming-synth) | Python library that generates realistic synthetic iGaming data with labelled gambling-harm, AML, and bonus-abuse patterns | Python, NumPy, pandas, pytest, GitHub Actions |
 | [World Cup Prediction Model](https://github.com/chilukuru-saikrishna/world-cup-prediction) | Ensemble forecast combining Dixon-Coles, Elo ratings, and a neural network, simulated with Monte Carlo | Python, PyTorch, NumPy, pandas |
-| [Regulatory Document QA](Regulatory_Document_QA.ipynb) | RAG agent that answers questions over long regulatory PDFs with cited sources | Python, PyMuPDF, ChromaDB, Gemini API, Gradio, Google Colab |
-
+| [Regulatory Document QA](https://github.com/chilukuru-saikrishna/regulatory-document-qa) | RAG agent that answers questions over long regulatory PDFs with cited sources | Python, PyMuPDF, ChromaDB, Gemini API, Gradio, Google Colab |
 
 
 ---
