@@ -11,7 +11,7 @@ I'm focused on forward deployed engineering: taking AI and data solutions from p
 ### 🔭 Currently working on
 - **AI governance for gambling:** testing whether targeting models reach vulnerable players, and mapping iGaming AI systems to the EU AI Act ([igaming-ai-governance](https://github.com/chilukuru-saikrishna/igaming-ai-governance))
 - **Contract intelligence & policy benchmarking:** building [Lexiscan AI](https://github.com/chilukuru-saikrishna/lexiscan-ai), an in-browser legal engineering tool that uses Chrome Manifest V3, FastAPI, and Google Gemini to benchmark commercial agreements against corporate playbooks in real time
-- An explainable model for **early detection of gambling harm** (gradient boosting + SHAP), trained on data from my [igaming-synth](https://github.com/chilukuru-saikrishna/igaming-synth) library
+- **Early detection of gambling harm:** running my [explainable detection model](https://github.com/chilukuru-saikrishna/gambling-harm-early-detection) (rule-based vs LightGBM, with SHAP) on the Harvard Division on Addiction / bwin responsible gambling cohort
 - Building and deploying LLM/RAG tools end to end: APIs, structured schema validation, and evaluation
 
 ---
@@ -21,11 +21,11 @@ I'm focused on forward deployed engineering: taking AI and data solutions from p
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Lexiscan AI](https://github.com/chilukuru-saikrishna/lexiscan-ai) | Browser-integrated legal contract auditor that analyzes selected clauses against corporate playbooks, flags liabilities with severity ratings, generates redlines via structured Pydantic schemas, and exports Word audit memos | FastAPI, Google Gemini API, Pydantic, Chrome Extension (Manifest V3), JavaScript |
+| [Gambling Harm Early Detection](https://github.com/chilukuru-saikrishna/gambling-harm-early-detection) | Predicts which players will need a responsible gambling intervention from their first 30 days of betting, benchmarks ML against a rule-based score, and explains every flag with SHAP. Built for the Harvard/bwin RG cohort | Python, scikit-learn, LightGBM, SHAP, Google Colab |
 | [igaming-ai-governance](https://github.com/chilukuru-saikrishna/igaming-ai-governance) | Audits whether bonus and marketing models over-target players at risk of gambling harm, with a pass/fail gate for CI, plus indicative EU AI Act classifications for 8 iGaming AI systems | Python, pandas, scikit-learn, PyYAML, GitHub Actions |
 | [igaming-synth](https://github.com/chilukuru-saikrishna/igaming-synth) | Python library that generates realistic synthetic iGaming data with labelled gambling-harm, AML, and bonus-abuse patterns | Python, NumPy, pandas, pytest, GitHub Actions |
 | [World Cup Prediction Model](https://github.com/chilukuru-saikrishna/world-cup-prediction) | Ensemble forecast combining Dixon-Coles, Elo ratings, and a neural network, simulated with Monte Carlo | Python, PyTorch, NumPy, pandas |
 | [Regulatory Document QA](Regulatory_Document_QA.ipynb) | RAG agent that answers questions over long regulatory PDFs with cited sources | Python, PyMuPDF, ChromaDB, Gemini API, Gradio, Google Colab |
-| Gambling Harm Early Detection *(in progress)* | Classifies risky betting patterns and explains each flag | scikit-learn, LightGBM, SHAP |
 
 > **Finding from igaming-ai-governance:** an engagement model trained to predict deposits targeted at-risk players **4.7× more often** than everyone else, without being told to. Suppressing players with a harm-detection model before selection cut that to 0.15×.
 
@@ -36,7 +36,7 @@ I'm focused on forward deployed engineering: taking AI and data solutions from p
 - **Languages:** Python · SQL · JavaScript (ES6+) · Java
 - **AI & LLM Engineering:** Structured Inference (Pydantic) · RAG Pipelines · ChromaDB · Google Gemini & Anthropic APIs · Streamlit
 - **Full-Stack & Integrations:** FastAPI · Chrome Extensions (Manifest V3) · REST APIs · CORS
-- **Data Science & ML:** pandas · NumPy · scikit-learn · PyTorch · statistical modelling · Monte Carlo simulation · LightGBM · SHAP
+- **Data Science & ML:** pandas · NumPy · scikit-learn · PyTorch · LightGBM · SHAP · statistical modelling · Monte Carlo simulation
 - **Analytics & Automation:** Power BI (DAX, Power Query M) · Excel · Power Automate
 - **Engineering & QA:** Git · GitHub Actions · pytest · Jira · Selenium (Java) · TOSCA · manual testing
 - **Risk, Governance & Security:** EU AI Act · Contract Risk Assessment · AML/CFT risk assessment · regulatory reporting · ISO 27001 / ISMS · GDPR
