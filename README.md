@@ -27,7 +27,7 @@ I'm focused on forward deployed engineering: taking AI and data solutions from p
 | [World Cup Prediction Model](https://github.com/chilukuru-saikrishna/world-cup-prediction) | Ensemble forecast combining Dixon-Coles, Elo ratings, and a neural network, simulated with Monte Carlo | Python, PyTorch, NumPy, pandas |
 | [Regulatory Document QA](Regulatory_Document_QA.ipynb) | RAG agent that answers questions over long regulatory PDFs with cited sources | Python, PyMuPDF, ChromaDB, Gemini API, Gradio, Google Colab |
 
-> **Finding from igaming-ai-governance:** an engagement model trained to predict deposits targeted at-risk players **4.7× more often** than everyone else, without being told to. Suppressing players with a harm-detection model before selection cut that to 0.15×.
+
 
 ---
 
