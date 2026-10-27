@@ -28,9 +28,6 @@ I'm focused on forward deployed engineering: taking AI and data solutions from p
 | [igaming-synth](https://github.com/chilukuru-saikrishna/igaming-synth) | Python library that generates realistic synthetic iGaming data with labelled gambling-harm, AML, and bonus-abuse patterns | Python, NumPy, pandas, pytest, GitHub Actions |
 | [World Cup Prediction Model](https://github.com/chilukuru-saikrishna/world-cup-prediction) | Ensemble forecast combining Dixon-Coles, Elo ratings, and a neural network, simulated with Monte Carlo | Python, PyTorch, NumPy, pandas |
 | [Regulatory Document QA](https://github.com/chilukuru-saikrishna/regulatory-document-qa) | RAG agent that answers questions over long regulatory PDFs with cited sources | Python, PyMuPDF, ChromaDB, Gemini API, Gradio, Google Colab |
-
-> **Finding from rg-universal-model (simulated data):** five of 89 signals reach 99% of the full model's accuracy, and the strongest is depositing soon after a loss: chasing behaviour matters more than spend.
-
 ---
 
 ### 🛠️ Tools & technologies
