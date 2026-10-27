@@ -43,9 +43,9 @@ I'm focused on forward deployed engineering: taking AI and data solutions from p
 ---
 
 ### 🎓 Background
-- Integrated M.Sc. Physics — University of Hyderabad
-- PG Diploma in Human Resource Management — Ascencia Malta Business School
-- BA Political Science — Dr. B.R. Ambedkar Open University
+- Integrated M.Sc. Physics - University of Hyderabad
+- PG Diploma in Human Resource Management - Ascencia Malta Business School
+- BA Political Science - Dr. B.R. Ambedkar Open University
 - Certifications: Microsoft PL-300 (Power BI) · Google Data Analytics · Google Advanced Data Analytics
 
 ---
